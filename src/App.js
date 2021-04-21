@@ -47,6 +47,6 @@ function App() {
 }
 
 
-
+{/*todo: adding tasks by input and removing items */}
 
 export default App;
